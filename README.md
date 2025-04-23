@@ -1,5 +1,3 @@
-# Predicting-Loan-Approval-Using-Machine-Learning-Models
-
 # **Loan Approval Prediction Project** 🏦💰
 
 ## **Meet the Team** 👓
