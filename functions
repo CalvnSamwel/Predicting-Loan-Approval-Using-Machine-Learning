@@ -1,0 +1,6 @@
+def check_range_column(df):
+    """displays the maximum and minimum value for each column of the dataframe"""
+    for i in df.columns:
+        max = df[i].max()
+        min = df[i].min()
+        print(f"For column {i}, max: {max} and min: {min}.")
